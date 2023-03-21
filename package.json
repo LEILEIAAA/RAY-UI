@@ -14,6 +14,7 @@
     "start": "npm run dev"
   },
   "dependencies": {
+    "dumi": "^2.1.15",
     "prop-types": "^15.8.1"
   },
   "devDependencies": {
